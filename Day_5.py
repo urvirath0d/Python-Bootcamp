@@ -1,6 +1,7 @@
 #Task1
 #created a list
 A = [1, 2, 5]
+print(A)
 #Added an item
 A.append(6)
 print(A)
