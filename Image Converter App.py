@@ -28,5 +28,5 @@ def JPEGToPNG():
 b2 = imageConverter.Button(root, text='JPEG to PNG', command=JPEGToPNG)
 b2.place(relx=0.5, relwidth=0.5, relheight=0.4)
 
-root.geometry("200x100")
+root.geometry("400x100")
 root.mainloop()
